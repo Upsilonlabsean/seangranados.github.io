@@ -2407,7 +2407,7 @@ input, select, textarea {
 			ul.feature-icons li:before {
 				background: #CC662C; HERE
 				border-radius: 100%;
-				color: #CC662C;
+				color: #fff;
 				display: block;
 				height: 2.5em;
 				left: 0;
